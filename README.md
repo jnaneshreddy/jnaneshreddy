@@ -1,5 +1,5 @@
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif">
-# 💫 About Me:
+# About Me:
 Highly motivated and proactive individual with a strong background in computer science and a keen interest in web development. Excited to leverage skills to contribute to a team's success..🌱🪴
 
 
